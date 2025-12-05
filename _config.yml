@@ -1,5 +1,5 @@
-title: Adventure Time
-description: Adventure Time
+title: Character Analysis with Transformers: Finn the Human from Adventure Time
+description: This page details how to create a character analysis tool by training a transformers model on a transcript
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
